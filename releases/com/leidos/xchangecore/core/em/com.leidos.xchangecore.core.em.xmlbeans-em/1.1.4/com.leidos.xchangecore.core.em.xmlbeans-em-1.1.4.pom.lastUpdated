@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 17 17:36:33 EST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1418855793404
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1418855791526
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+https\://svn.uicds.leidos.com/repository/.error=Could not transfer artifact com.leidos.xchangecore.core.em\:com.leidos.xchangecore.core.em.xmlbeans-em\:pom\:1.1.4 from/to UICDS (https\://svn.uicds.leidos.com/repository)\: Connection to https\://svn.uicds.leidos.com refused
+http\://repo.maven.apache.org/maven2/.error=
+9777c2e125fda736798920ee3590fb923467f17e@default-https\://svn.uicds.leidos.com/repository/.lastUpdated=1418855790743
+http\://uicds.usersmarts.com/maven/release/.lastUpdated=1418855792501
+http\://uicds.usersmarts.com/maven/release/.error=
