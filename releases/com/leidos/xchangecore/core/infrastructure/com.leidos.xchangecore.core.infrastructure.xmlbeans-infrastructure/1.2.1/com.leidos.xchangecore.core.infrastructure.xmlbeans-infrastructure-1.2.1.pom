@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    
     <parent>
         <groupId>com.leidos.xchangecore.core.infrastructure</groupId>
         <artifactId>com.leidos.xchangecore.core.infrastructure</artifactId>
         <version>1.0.0</version>
     </parent>
+    
     <modelVersion>4.0.0</modelVersion>
     <artifactId>com.leidos.xchangecore.core.infrastructure.xmlbeans-infrastructure</artifactId>
     <version>${xmlbeans-infrastructure.version}</version>
     <packaging>jar</packaging>
-    <name>com.leidos.xchangecore.core.infrastructure.xmlbeans-infrastructure</name>
+    <name>XmlBeans for Core's Infrastructure</name>
 
     <!-- define distribution management to make deploy plugin happy
     <distributionManagement>
@@ -26,8 +28,10 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.5</version>
+            <version>4.4</version>
+            <!-- 
             <scope>test</scope>
+             -->
         </dependency>
         <dependency>
             <groupId>org.apache.xmlbeans</groupId>
